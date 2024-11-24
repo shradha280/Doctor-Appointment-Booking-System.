@@ -21,6 +21,8 @@ A simple REST API built with **Node.js** for managing doctor appointments. This 
    ```bash
    git clone <repository-url>
    cd doctor-appointment-system
+
+## Running the Application
 2. Install dependencies:
    ```bash
     npm install
